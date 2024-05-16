@@ -16,5 +16,15 @@
 
 ### Step 4. 會產生name.csv的資料夾，為之後成績上傳的格式
 
-## 作業及成績自動上傳功能(待補)
+-- --
+## 作業及成績自動上傳功能
+### Step 1. 修改帳號、EEclass上的作業名稱、課號、成績路徑、檔案路徑
+![image](https://github.com/tyllersun/NTHU_EEclass_TAhelper/assets/27050741/0bdf227b-f647-496e-b3f5-8a79305ae8be)
+
+### Step 2. 輸入驗證碼(上傳學生檔案)(在程式碼INPUT BOX輸入)
+![螢幕擷取畫面 2024-05-16 130112](https://github.com/tyllersun/NTHU_EEclass_TAhelper/assets/27050741/2b5b3b2c-2941-4f61-ba07-172be40b80d4)
+
+
+### Step 3. 輸入驗證碼(上傳成績)(在程式碼INPUT BOX輸入)
+![image](https://github.com/tyllersun/NTHU_EEclass_TAhelper/assets/27050741/b080c8be-745f-4de5-97c7-b9b1059b3b4b)
 
